@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnshMasand
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning Python and Ruby
+- 🌱 I’m currently learning React JS and Convolutional Neural Networks.
 - 💞️ I’m looking to collaborate on any beginner/intermediate level projects.
 - 📫 How to reach me - anshmasand1@gmail.com
 
